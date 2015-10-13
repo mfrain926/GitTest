@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Button App 2.0</string>
+
+    <string name="hello_world">Hello world! Matt Frain is Here</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonLabel">Click Me!</string>
+</resources>
